@@ -60,7 +60,7 @@ class DayDataItemsAdapter(
                 nasaDataListItemsBinding.ndiVideoWv.visibility = VISIBLE
                 nasaDataListItemsBinding.ndiImageIv.visibility = GONE
 
-//                Using iFrame Embeds for playing the videos uploaded to youtube
+//                Using iFrame Embeds for playing the videos uploaded on youtube
                 val url =
                     "<iframe width=\"100%\" height=\"100%\" src=\"${dayDataItemList.url}\" title=\"${dayDataItemList.imgTitle}\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;\" allowfullscreen></iframe>"
                 nasaDataListItemsBinding.ndiVideoWv.loadData(url, "text/html", "utf-8")

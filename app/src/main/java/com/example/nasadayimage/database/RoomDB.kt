@@ -18,7 +18,7 @@ abstract class RoomDB : RoomDatabase() {
         private var INSTANCE: RoomDB? = null
 
         fun getDatabase(context: Context): RoomDB {
-//            putting the code inside "synchronized" container will avoid multiple execute at one
+//            putting the code inside "synchronized" container will avoid multiple execute at a
 //            time, also will make sure that the "INSTANCE" gets initialized only once
             return INSTANCE ?: synchronized(this) {
                 val instance = Room.databaseBuilder(
