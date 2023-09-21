@@ -34,8 +34,8 @@ The NASA Image of the Day App is a simple Android application that allows users 
 ## Setup and API Key Intructions
 
 - To use this app and fetch NASA's "Image of the Day" data, you need to obtain an API key from NASA's Open API portal. Follow these steps to get your API key:
-- 1. Visit NASA's Open API Portal:
-   - Go to (https://api.nasa.gov/) in your web browser.
-- It can handle video content by displaying a placeholder image and a play button for video content.
-- Local caching is implemented to store fetched data for offline access.
-
+- Visit NASA's Open API Portal: (https://api.nasa.gov/) in your web browser
+- Create your account and generate an API Key
+- Copy the generated API key then locate the Constants File paste your API Key
+- Lastly, save your code changes and rebuild your project
+- And you are done!
