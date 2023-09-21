@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NASA Day Image</string>
+
+    <string name="description">NASA Logo</string>
+    <string name="day_image_description">Day Image Description</string>
+    <string name="test_description">Where else might life exist?  One of humanity\'s great outstanding questions, locating planets where extrasolar life might survive took a step forward in 2019 with the discovery of a significant amount of water vapor in the atmosphere of distant exoplanet K2–18b. The planet and its parent star, K2–18, lie about 124 light years away toward the constellation of the Lion (Leo). The exoplanet is significantly larger and more massive than our Earth, but orbits in the habitable zone of its home star. K2-18, although more red than our Sun, shines in K2-18b\'s sky with a brightness similar to the Sun in Earth\'s sky.  The 2019 discovery of atmospheric water was made in data from three space telescopes: Hubble, Spitzer, and Kepler, by noting the absorption of water-vapor colors when the planet moved in front of the star.  Now in 2023, further observations by the Webb Space Telescope in infrared light have uncovered evidence of other life-indicating molecules — including methane.  The featured illustration imagines exoplanet K2-18b on the far right orbited by a moon (center), which together orbit a red dwarf star depicted on the lower left.</string>
+    <string name="test_posted_date">9th October, 2023</string>
+    <string name="no_internet_connection">No Internet Connection Found</string>
+    <string name="warning_title">Warning</string>
+    <string name="unexpected_event">Something unexpected happened</string>
+    <string name="retry">Retry</string>
+
+    <string name="first_date">st</string>
+    <string name="second_date">nd</string>
+    <string name="third_date">rd</string>
+    <string name="other_date">th</string>
+</resources>
